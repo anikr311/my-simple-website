@@ -3,3 +3,8 @@ div{
     padding: 10px;
     margin-bottom: 10px;
 }
+div{
+    ul{
+        list-style: circle;
+    }
+}
