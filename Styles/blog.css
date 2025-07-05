@@ -8,3 +8,10 @@ div{
         list-style: circle;
     }
 }
+
+#gihun{
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+    background-color: blueviolet;
+}
